@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/componets/menuitems.tsx","./src/componets/ordercontent.tsx","./src/componets/ordertotals.tsx","./src/componets/tippercentaje.tsx","./src/data/db.ts","./src/helpers/index.ts","./src/hooks/useorder.ts","./src/types/index.ts"],"version":"5.6.3"}
